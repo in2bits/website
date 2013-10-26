@@ -1,6 +1,6 @@
 .main-content {
     margin-top: 50px;
-    font-family:sans-serif;
+    font-family:monospace;
 }
 .logo {
     display: block;
@@ -10,7 +10,7 @@
 }
 .logo.tagline {
     margin-top: 0.5em;
-    font-size: 20pt;
+    font-size: 16pt;
 }
 .sociallinks {
     display: block;

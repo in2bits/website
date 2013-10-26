@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b57c775e-b36f-4fb6-b625-9d22f2c2a797" name="Default" comment="" />
+    <list default="true" id="b57c775e-b36f-4fb6-b625-9d22f2c2a797" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/in2bits.css" afterPath="$PROJECT_DIR$/in2bits.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="website.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +30,7 @@
       <file leaf-file-name="in2bits.web.svg" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/in2bits.web.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="0" selection-start="14431" selection-end="14431" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2025">
+            <state line="98" column="18" selection-start="15677" selection-end="15677" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2025">
               <folding />
             </state>
           </provider>
@@ -35,7 +39,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="7" selection-start="170" selection-end="170" vertical-scroll-proportion="0.10368664" vertical-offset="0" max-vertical-offset="868">
+            <state line="6" column="10" selection-start="173" selection-end="173" vertical-scroll-proportion="0.16042781" vertical-offset="0" max-vertical-offset="795">
               <folding />
             </state>
           </provider>
@@ -44,7 +48,7 @@
       <file leaf-file-name="in2bits.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/in2bits.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="1" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="600">
+            <state line="18" column="1" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
               <folding />
             </state>
           </provider>
@@ -75,6 +79,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -82,16 +94,18 @@
         <option value="$PROJECT_DIR$/test/js/main.js" />
         <option value="$PROJECT_DIR$/test/in2bits.css" />
         <option value="$PROJECT_DIR$/test/index.html" />
+        <option value="$PROJECT_DIR$/in2bits.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
     <option name="y" value="22" />
-    <option name="width" value="1676" />
+    <option name="width" value="802" />
     <option name="height" value="1028" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -143,7 +157,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.lastSelected" value="web.server" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../letterfly" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -154,6 +168,13 @@
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="a1476ffa-8fc9-45ec-9949-2c38564a6a7a">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/inetpub/wwwroot/test" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </server>
@@ -204,6 +225,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b57c775e-b36f-4fb6-b625-9d22f2c2a797" name="Default" comment="" />
@@ -213,15 +251,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="22" width="1676" height="1028" extended-state="6" />
-    <editor active="true" />
+    <frame x="4" y="22" width="802" height="1028" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24880669" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24812968" sideWeight="0.6709539" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -290,13 +329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/in2bits.web.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="0" selection-start="14431" selection-end="14431" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2025">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="17" selection-start="1795" selection-end="1795" vertical-scroll-proportion="0.0" vertical-offset="563" max-vertical-offset="1530">
@@ -304,16 +336,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/in2bits.web.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="18" selection-start="15677" selection-end="15677" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/in2bits.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="1" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+        <state line="18" column="1" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="7" selection-start="170" selection-end="170" vertical-scroll-proportion="0.10368664" vertical-offset="0" max-vertical-offset="868">
+        <state line="6" column="10" selection-start="173" selection-end="173" vertical-scroll-proportion="0.16042781" vertical-offset="0" max-vertical-offset="795">
           <folding />
         </state>
       </provider>
